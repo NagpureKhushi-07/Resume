@@ -34,6 +34,7 @@
         <li>English</li>
         <li>Hindi</li>
         <li>Marathi</li>
+        <hr>
       <b>***THANK YOU***</b>
     </ul>
 </body>
