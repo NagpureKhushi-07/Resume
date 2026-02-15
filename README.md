@@ -7,7 +7,7 @@
     
 </head>
 <body>
-    <h3>Khushi Nagpure</h3>
+    <h2>Khushi Nagpure</h2>
     <p><b>Email:</b>khushin.cse25@sbjit.edu.in</p>
     <p><b>Phone no.:</b> +91 88054 60120</p>
     <p><b>Location:</b> Nagpur, Maharashtra</p>
