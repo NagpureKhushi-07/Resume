@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume</title>
+    
 </head>
 <body>
-    <h1>Khushi Nagpure</h1>
+    <h3>Khushi Nagpure</h3>
     <p><b>Email:</b>khushin.cse25@sbjit.edu.in</p>
     <p><b>Phone no.:</b> +91 88054 60120</p>
     <p><b>Location:</b> Nagpur, Maharashtra</p>
